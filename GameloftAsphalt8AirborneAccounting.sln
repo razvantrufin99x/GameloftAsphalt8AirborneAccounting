@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameloftAsphalt8AirborneAccounting", "GameloftAsphalt8AirborneAccounting\GameloftAsphalt8AirborneAccounting.csproj", "{5D0A56AD-384A-4BDF-B9AB-82CA8CF211FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0A56AD-384A-4BDF-B9AB-82CA8CF211FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0A56AD-384A-4BDF-B9AB-82CA8CF211FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0A56AD-384A-4BDF-B9AB-82CA8CF211FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0A56AD-384A-4BDF-B9AB-82CA8CF211FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5AA77E7-E391-4E18-B273-4E3F9AA59293}
+	EndGlobalSection
+EndGlobal
